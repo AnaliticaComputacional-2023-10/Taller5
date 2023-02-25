@@ -70,3 +70,38 @@ https://www.youtube.com/watch?v=mrUqITjUhL8
 ![1677363318173](image/Taller5-Solución/1677363318173.png)
 
 ![1677363372152](image/Taller5-Solución/1677363372152.png)
+
+---
+
+![1677365462090](image/Taller5-Solución/1677365462090.png)
+
+- Dirección IP v4 pública: 3.222.215.237
+- Dirección IP v4 privada: 172.31.7.248
+- Tipo de Instancia: t2.micro
+- Plataforma: Amazon Linux (inferido)
+  - Detalles de la plataforma: Linux/UNIX
+- Tipo de virtualización: hvm
+- Número de CPU virtuales: 1
+- Zona de disponibilidad: us-east-1e
+- ID de volumen: vol-0002e98e4b07e4d9d
+  **Falta**
+
+![1677365519722](image/Taller5-Solución/1677365519722.png)
+
+![1677358227222](image/Taller5-Solución/1677358227222.png)
+
+![1677362809416](image/Taller5-Solución/1677362809416.png)
+
+![1677363031917](image/Taller5-Solución/1677363031917.png)
+
+![1677363147559](image/Taller5-Solución/1677363147559.png)
+
+![1677363154118](image/Taller5-Solución/1677363154118.png)
+
+![1677363318173](image/Taller5-Solución/1677363318173.png)
+
+![1677363372152](image/Taller5-Solución/1677363372152.png)
+
+![1677366314570](image/Taller5-Solución/1677366314570.png)
+![1677366329849](image/Taller5-Solución/1677366329849.png)
+![1677366343487](image/Taller5-Solución/1677366343487.png)

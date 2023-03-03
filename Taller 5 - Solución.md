@@ -23,13 +23,11 @@
 
 - i. Snapshot tablero instancia en ejecución.
 
-![a](image/Taller5-Soluci%C3%B3n/1677187092917.png)
+![1677357929277](image/Taller5-Solución/1677357929277.png)
 
 ---
 
 7.  Copie algunos datos de su instancia
-
-![1677357929277](image/Taller5-Solución/1677357929277.png)
 
 - Dirección IP v4 pública: 34.237.91.238 / 3.222.215.237.
   - Nota: debido a que se cerró la máquina virtual los pantallazos son hechos con la primera dirección IP (34.237.91.238), sin embargo, la ejecución publicada en Slack corresponde a 3.222.215.237.
@@ -99,3 +97,5 @@
 A continuación, se muestra la prueba de los varios intentos que se tuvieron
 
 ![1677366343487](image/Taller5-Solución/1677366343487.png)
+
+Como se puede observar en un principio se trató con la ip `34.237.91.238` pero por tiempo amazon cerró el laboratorio, por lo que fue necesario correr rapidamente una nueva instancia en `3.222.215.237`.
